@@ -1,0 +1,2 @@
+Para iniciar a aplicação execute o comando: docker-compose up -d
+Para parar a aplicação execute o comando: docker-compose down
